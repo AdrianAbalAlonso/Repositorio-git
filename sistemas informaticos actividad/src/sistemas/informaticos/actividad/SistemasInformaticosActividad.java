@@ -23,6 +23,7 @@ public class SistemasInformaticosActividad {
     short variable2=-4;
     int resultado = variable + variable2;
     System.out.println("el resultado de la suma es :"+resultado);
+    
     }
     
 }
